@@ -77,6 +77,7 @@ O projeto segue uma pipeline clássica de dados:
   CSV como fonte de dados
 
 ▶️ Como Executar
+
 1. Clone o repositório:
     git clone <repo-url>
     cd agrofit-case
