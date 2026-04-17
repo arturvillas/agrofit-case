@@ -22,14 +22,16 @@ O projeto segue uma pipeline clássica de dados:
   Entendimento inicial dos dados
   Identificação de inconsistências
   Análise de distribuição e padrões
-  2. 🧹 Limpeza e Padronização
+
+2. 🧹 Limpeza e Padronização
   
   Notebook: 02_limpeza_padronizacao.ipynb
   
   Tratamento de valores nulos
   Padronização de textos
   Normalização de campos
-  3. 🧠 Enriquecimento dos Dados
+
+3. 🧠 Enriquecimento dos Dados
   
   Notebook: 03_enriquecimento.ipynb
   
@@ -38,13 +40,15 @@ O projeto segue uma pipeline clássica de dados:
   Produtos
   Titulares
   Construção de tabelas fato
-  4. 📈 Visualização
+
+4. 📈 Visualização
   
   Notebook: 04_visualizacao.ipynb
   
   Geração de gráficos e insights
   Apoio para construção do dashboard
-  📊 Modelagem de Dados
+
+📊 Modelagem de Dados
   
   O projeto utiliza um modelo dimensional (estilo Star Schema):
   
@@ -54,7 +58,8 @@ O projeto segue uma pipeline clássica de dados:
   dim_titular
   Fato:
   fato_produto_praga
-  📉 Dashboard (Power BI)
+
+📉 Dashboard (Power BI)
   
   Arquivo: power bi/AgrofitCase.pbix
   
@@ -64,14 +69,15 @@ O projeto segue uma pipeline clássica de dados:
   Análises estratégicas
   Insights sobre produtos e empresas
   Relação entre produtos e pragas
-  🛠️ Tecnologias Utilizadas
+
+🛠️ Tecnologias Utilizadas
   Python (Pandas, NumPy, Matplotlib/Seaborn)
   Jupyter Notebook
   Power BI
   CSV como fonte de dados
 
 ▶️ Como Executar
- 1. Clone o repositório:
+1. Clone o repositório:
     git clone <repo-url>
     cd agrofit-case
 
