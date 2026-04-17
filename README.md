@@ -1,13 +1,13 @@
 🌱 Agrofit Case
-  Projeto de análise de dados do Agrofit com foco em exploração, tratamento, modelagem e visualização de dados do mercado de defensivos agrícolas.
+Projeto de análise de dados do Agrofit com foco em exploração, tratamento, modelagem e visualização de dados do mercado de defensivos agrícolas.
 
 📌 Objetivo
-  Este projeto tem como objetivo analisar dados de produtos formulados registrados no Agrofit, gerando insights estratégicos sobre:
+Este projeto tem como objetivo analisar dados de produtos formulados registrados no Agrofit, gerando insights estratégicos sobre:
   
-  Empresas e titulares
-  Produtos e categorias
-  Relação produto × pragas
-  Panorama do mercado de defensivos agrícolas
+Empresas e titulares
+Produtos e categorias
+Relação produto × pragas
+Panorama do mercado de defensivos agrícolas
 
 
 
