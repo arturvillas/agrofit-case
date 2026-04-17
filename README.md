@@ -9,31 +9,7 @@
   Relação produto × pragas
   Panorama do mercado de defensivos agrícolas
 
-📂 Estrutura do Projeto
-  agrofit-case/
-  │
-  ├── data/
-  │   ├── bruto/
-  │   │   └── agrofitprodutosformulados.csv
-  │   │
-  │   └── tratado/
-  │       ├── agrofit_limpo.csv
-  │       ├── dim_empresa.csv
-  │       ├── dim_produto.csv
-  │       ├── dim_titular.csv
-  │       └── fato_produto_praga.csv
-  │
-  ├── power bi/
-  │   ├── AgrofitCase.pbix
-  │   └── backgrounds/
-  │
-  ├── src/
-  │   ├── 01_eda.ipynb
-  │   ├── 02_limpeza_padronizacao.ipynb
-  │   ├── 03_enriquecimento.ipynb
-  │   └── 04_visualizacao.ipynb
-  │
-  └── README.md
+
 
 🔄 Pipeline do Projeto
 
